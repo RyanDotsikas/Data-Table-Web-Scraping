@@ -14,3 +14,4 @@ How To Run:
   3. Install the Objects-To-CSV package with the following command line: npm i objects-to-csv
   4. Navigate to this repository and type: node WebScraper.js
   5. (Note: if you wish to watch the process occur, open the file and on line 7 change the 'true' to 'false')
+  6. Open the .csv file to view the results
